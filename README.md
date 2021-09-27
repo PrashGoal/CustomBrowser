@@ -12,6 +12,8 @@ The application helps to browse anything in the internet.
 > Install the PyQt5
 ```pip install PyQt5```
 
+```pip install pyQtWebEngine```
+
 ## Usage
 
 > Run the `main.py` 
