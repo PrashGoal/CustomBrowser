@@ -23,3 +23,4 @@ The application helps to browse anything in the internet.
 
 #### Screenshot
 
+![browser](https://user-images.githubusercontent.com/85633928/134947865-7828db28-35c9-47bb-88f0-9c38ac8bff42.PNG)
